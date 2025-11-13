@@ -95,10 +95,6 @@
             <h2 class="title-small">Personal Interests</h2>
             <p>I have played many competitive sports, including badminton, ping-pong, and chess — yes, chess is a sport. I also practiced taekwondo for many years. These days, I nourish a passion for motor racing and try to be on the track whenever possible.</p>
           </div>
-
-          <p class="bit-1 mg-t">
-            <a href="/assets/pdf/jean-simon-robert-ouimet-resume.pdf" target="_blank" class="btn">download résumé&nbsp;&nbsp;<span class="icon download">&rarr;</span></a>
-          </p>
         </section>
       </article>
       <?php include_once($_SERVER['DOCUMENT_ROOT'] . "/includes/footer.php"); ?>
